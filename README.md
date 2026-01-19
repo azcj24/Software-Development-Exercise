@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## AIPowered Text Summarizer & Enhancer
 
 ### A lightweight Python command-line tool that uses a Generative AI model to:
@@ -87,3 +88,7 @@ Developed as part of a software engineering traineeship application to demonstra
 - Practical AI integration
 - Prompt design and iteration
 - Clean project structure and documentation
+=======
+# Software-Development-Exercise
+AI-Powered Text Summarizer &amp; Enhancer
+>>>>>>> 50bc1f74f999b68d2567a7a115c96391454723cf
